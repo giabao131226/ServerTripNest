@@ -1,0 +1,293 @@
+{
+  "users": [
+    {
+      "id": "872d",
+      "username": "baodz2k6",
+      "password": "123",
+      "email": "baosom2006@gmail.com",
+      "phone": "0974745192",
+      "token": "KQZYD5nO9npgrkP5NEtXqicaD"
+    },
+    {
+      "id": "0b7a",
+      "username": "ngocanh123",
+      "password": "123",
+      "email": "abc123@gmail.com",
+      "phone": "0987664444",
+      "token": "Ox52IycvQYaiEV80I6np4KxIK"
+    },
+    {
+      "id": "a919",
+      "username": "bacong123",
+      "password": "123",
+      "email": "abc123@gmail.com",
+      "phone": "0987664444",
+      "token": "8ZE71SUqQCbLLVbxRDb2GqEmI"
+    },
+    {
+      "id": "f56b",
+      "username": "ngocbach123",
+      "password": "123",
+      "email": "abc123@gmail.com",
+      "phone": "0987664444",
+      "token": "DJNswdMmLxvVTTOk0E0oPBwwz"
+    },
+    {
+      "id": "3b50",
+      "username": "ngocanh123",
+      "password": "123",
+      "email": "baosom2006@gmail.com",
+      "phone": "123",
+      "token": "kvKcdl5W80iKHwV4qr0s2czUs"
+    },
+    {
+      "id": "93ad",
+      "username": "vanchien123",
+      "password": "123",
+      "email": "abc123@gmail.com",
+      "phone": "123",
+      "token": "f982BsD8zzgPxaxgVVpBxZGp3"
+    },
+    {
+      "id": "d2bd",
+      "username": "abc",
+      "password": "123",
+      "email": "baosom2006@gmail.com",
+      "phone": "0974745192",
+      "token": "NqiekMqElcvMNCbKGTgtdcIVA"
+    },
+    {
+      "id": "3def",
+      "username": "baosom2k6123",
+      "password": "123",
+      "email": "dobao13122006@gmail.com",
+      "phone": "0974745192",
+      "token": "XOQxKrozVieoWsDT1xCsTayZC"
+    },
+    {
+      "id": "dcc2",
+      "username": "lethanh123",
+      "password": "123",
+      "email": "lethanh@gmail.com",
+      "phone": "0974745192",
+      "token": "HkOQbFJUT8IHp3z1bLMyq58vu"
+    },
+    {
+      "id": "7b18",
+      "username": "ha",
+      "password": "123",
+      "email": "baosom2k6@gmail.com",
+      "phone": "0974745192",
+      "token": "OnbFP9h8SMxmQg5Hlpp54eXc9"
+    },
+    {
+      "id": "889f",
+      "username": "hoanganhbot",
+      "password": "123123",
+      "email": "hoanganh@gmail.com",
+      "phone": "0956789000",
+      "token": "v4BAerw2vS0vr8NNcbydXT4Tq"
+    }
+  ],
+  "bds": [
+    {
+      "id": "1",
+      "title": "Ha Noi Le Grand",
+      "price": "389.612",
+      "images": [
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-326893946a4dfa8dbc7b7773b17503cb.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
+      ],
+      "typeRoom": "VIP",
+      "type": "Villa",
+      "rate": 4,
+      "rateper10": 8.5,
+      "tienich": [
+        "Cho Thuê Xe Đạp",
+        "Điều Hoà",
+        "Lửa Trại"
+      ],
+      "diadiem": "HaNoi",
+      "trangThai": true,
+      "time": 3,
+      "danhGiaNoiBat": [
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Da Nang Le Grand",
+      "price": "389.612",
+      "images": [
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-326893946a4dfa8dbc7b7773b17503cb.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
+      ],
+      "typeRoom": "normal",
+      "type": "Villa",
+      "rate": 2,
+      "rateper10": 5.4,
+      "tienich": [
+        "Cho Thuê Xe Đạp",
+        "Điều Hoà",
+        "Lửa Trại"
+      ],
+      "diadiem": "DaNang",
+      "trangThai": true,
+      "time": 2,
+      "danhGiaNoiBat": [
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Hai Phong Le Grand",
+      "price": "389.612",
+      "time": 3,
+      "images": [
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-326893946a4dfa8dbc7b7773b17503cb.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
+      ],
+      "typeRoom": "normal",
+      "type": "Villa",
+      "rate": 2,
+      "rateper10": 5.4,
+      "tienich": [
+        "Cho Thuê Xe Đạp",
+        "Điều Hoà",
+        "Lửa Trại"
+      ],
+      "diadiem": "HaiPhong",
+      "trangThai": false,
+      "danhGiaNoiBat": [
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Hai Phong Le Grand",
+      "price": "389.612",
+      "images": [
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-326893946a4dfa8dbc7b7773b17503cb.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
+        "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
+      ],
+      "typeRoom": "normal",
+      "type": "Villa",
+      "rate": 2,
+      "rateper10": 5.4,
+      "tienich": [
+        "Cho Thuê Xe Đạp",
+        "Điều Hoà",
+        "Lửa Trại"
+      ],
+      "diadiem": "HaiPhong",
+      "trangThai": true,
+      "time": 4,
+      "danhGiaNoiBat": [
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        },
+        {
+          "name": "Thuy Linh",
+          "danhGia": "Nhân viên dễ thương thân thiện, vệ sinh rất sạch sẽ. Mình ở 5 ngày 4 đêm và rất hài lòng"
+        }
+      ]
+    }
+  ],
+  "diadiem": [
+    {
+      "value": "HaNoi",
+      "label": "Hà Nội",
+      "id": "ef2f"
+    },
+    {
+      "value": "DaNang",
+      "label": "Đà Nẵng",
+      "id": "fa0c"
+    },
+    {
+      "value": "NgheAn",
+      "label": "Nghệ An",
+      "id": "85db"
+    },
+    {
+      "value": "HaiPhong",
+      "label": "Hải Phòng",
+      "id": "24d8"
+    },
+    {
+      "value": "HCM",
+      "label": "TP HCM",
+      "id": "b7f2"
+    }
+  ],
+  "loaiPhong": [
+    {
+      "value": "VIP",
+      "label": "VIP",
+      "id": "8e73"
+    },
+    {
+      "value": "normal",
+      "label": "Thường",
+      "id": "0f63"
+    }
+  ]
+}
