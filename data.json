@@ -280,14 +280,19 @@
   ],
   "loaiPhong": [
     {
-      "value": "VIP",
-      "label": "VIP",
+      "value": "villa",
+      "label": "Villa",
       "id": "8e73"
     },
     {
-      "value": "normal",
-      "label": "Thường",
+      "value": "resort",
+      "label": "Resort",
       "id": "0f63"
+    },
+    {
+      "id": "0d21",
+      "value": "homestay",
+      "label": "HomeStay"
     }
   ]
 }
