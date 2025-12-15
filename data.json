@@ -109,7 +109,7 @@
         "Lửa Trại"
       ],
       "diadiem": "HaNoi",
-      "trangThai": true,
+      "trangThai": false,
       "time": 3,
       "danhGiaNoiBat": [
         {
@@ -149,7 +149,7 @@
         "Lửa Trại"
       ],
       "diadiem": "DaNang",
-      "trangThai": true,
+      "trangThai": false,
       "time": 2,
       "danhGiaNoiBat": [
         {
@@ -229,7 +229,7 @@
         "Lửa Trại"
       ],
       "diadiem": "HaiPhong",
-      "trangThai": true,
+      "trangThai": false,
       "time": 4,
       "danhGiaNoiBat": [
         {
