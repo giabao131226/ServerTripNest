@@ -99,7 +99,7 @@
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
       ],
-      "typeRoom": "VIP",
+      "typeRoom": "villa",
       "type": "Villa",
       "rate": 4,
       "rateper10": 8.5,
@@ -139,7 +139,7 @@
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
       ],
-      "typeRoom": "normal",
+      "typeRoom": "villa",
       "type": "Villa",
       "rate": 2,
       "rateper10": 5.4,
@@ -180,7 +180,7 @@
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
       ],
-      "typeRoom": "normal",
+      "typeRoom": "homestay",
       "type": "Villa",
       "rate": 2,
       "rateper10": 5.4,
@@ -219,7 +219,7 @@
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-9708a0480139c9b61cd04955d18b7cd4.png?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280",
         "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20061391-45d2373d5ab3dd59958c69a879278863.jpeg?_src=imagekit&tr=dpr-2,fo-auto,h-280,q-40,w-280"
       ],
-      "typeRoom": "normal",
+      "typeRoom": "villa",
       "type": "Villa",
       "rate": 2,
       "rateper10": 5.4,
